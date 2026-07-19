@@ -73,7 +73,7 @@ https://www.linkedin.com/in/zain-ahmad-812769255/
 https://hkfusion.netlify.app
 
 💻 Fiverr:
-https://www.fiverr.com/users/zain_ahmad_28/seller_dashboard
+https://www.fiverr.com/zain_ahmad_28?public_mode=true
 
 📂 GitHub:
 https://github.com/ZainAhmad28
