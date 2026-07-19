@@ -3,17 +3,16 @@
 
 <p align="center">
 🎓 BS Data Science Student at the University of Agriculture Faisalabad (2024–2028)<br>
-📊 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Analytics
+📊 Passionate about making dashboards, Data handling, Machine Learning, Deep Learning, and Data Analytics
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BS Data Science (4th Semester)
+- 🎓 BS Data Science (5th Semester)
 - 📍 University of Agriculture Faisalabad
-- 📈 Current CGPA: **3.44**
-- 🌱 Currently learning **Machine Learning, Deep Learning, SQL, Python, and Data Visualization**
+- 🌱 Currently learning **PowerBi, Machine Learning, Deep Learning, SQL, Python, and Data Visualization**
 - 💡 Interested in solving real-world problems using data
 - 🚀 Looking for AI/ML and Data Science Internship opportunities
 
@@ -49,7 +48,7 @@
 
 ## 📂 Featured Projects
 
-### 📌 Decode Labs Internship Projects
+### 📌 Data Science Projects
 Completed multiple hands-on Data Science and Machine Learning projects involving:
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -68,13 +67,13 @@ Completed multiple hands-on Data Science and Machine Learning projects involving
 ## 🌐 Connect With Me
 
 💼 LinkedIn:
-YOUR_LINKEDIN_URL
+https://www.linkedin.com/in/zain-ahmad-812769255/
 
 🌐 Portfolio:
 https://hkfusion.netlify.app
 
 💻 Fiverr:
-https://www.fiverr.com/zain_ahmad_28
+https://www.fiverr.com/users/zain_ahmad_28/seller_dashboard
 
 📂 GitHub:
 https://github.com/ZainAhmad28
